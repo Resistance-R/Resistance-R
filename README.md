@@ -1,7 +1,6 @@
 <!--title-->
-## WELCOME
-### to
 <div align="center">
+  <h3>Welcome<br>to</h3>
   <img src="https://github.com/Resistance-R/Resistance-R/blob/main/logo-export-gif.gif">
 </div>
 
