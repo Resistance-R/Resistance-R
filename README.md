@@ -1,6 +1,7 @@
 <!--title-->
+## WELCOME
+### to
 <div align="center">
-  ## Welcome to
   <img src="https://github.com/Resistance-R/Resistance-R/blob/main/logo-export-gif.gif">
 </div>
 
