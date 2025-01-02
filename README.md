@@ -1,6 +1,6 @@
 <!--title-->
 <div align="center">
-  <p style="font-size:200%;">Welcome<br>to</p>
+  <h3 style="font-size:200%;">Welcome<br>to</h3>
   <img src="https://github.com/Resistance-R/Resistance-R/blob/main/logo-export-gif.gif">
 </div>
 
