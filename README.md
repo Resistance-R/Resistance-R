@@ -1,4 +1,8 @@
-## Hi there 👋
+<!--title-->
+<div align="center">
+  <h2>Welcome to</h2>
+  <img src="https://github.com/Resistance-R/Resistance-R/blob/main/logo-export-gif.gif">
+</div>
 
 <!--
 **Resistance-R/Resistance-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
